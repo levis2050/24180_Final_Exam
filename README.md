@@ -6,32 +6,37 @@ FINAL PROJECT DOCUMENTATION
 
 1. Project Overview:
 Introducing Our Tenant Management System: Streamlining Rental Property Management
+
 1.1 Purpose:
 The Tenant Management System aims to streamline and automate the processes associated with managing rental properties. The primary purpose is to assist landlords in efficiently handling tenants, collecting rent payments, and addressing maintenance issues.
+
 1.2 Expected Outcomes:
 Improved tenant management and communication.
 Timely and organized rent collection process.
 Enhanced tracking and resolution of house-related issues.
 Efficient documentation and record-keeping.
+
 1.3 Scope:
 The system will cover the following key functionalities:
 Tenant information management.
 Rent payment tracking and reminders.
 Maintenance request and issue tracking.
 Communication tools for landlords and tenants.
+
 Services for the system on admin side: 
 - CRUD Informations about Houses,Tenants,Payments,Problems 
-- Authentication and Authorization for the admin 
+- Authentication and Authorization for the admin.
+  
 Services for the system on client side: 
 - Add information about himself for registering - Login for himself
--Register Problem and Payment
+-Register Problem and Payment.
+
 Tools used: 
 - Spring Boot 
 - Html, Css & Javascripts in Templates,Thymeleaf 
 - MySQL Database
 
   <img width="580" alt="schema" src="https://github.com/levis2050/24180_Final_Exam/assets/122565806/9f9884a0-dd01-4cf9-bd46-58e469ff60f2">
-
 
 USER INTERACTION
 
