@@ -30,6 +30,9 @@ Tools used:
 - Html, Css & Javascripts in Templates,Thymeleaf 
 - MySQL Database
 
+  <img width="580" alt="schema" src="https://github.com/levis2050/24180_Final_Exam/assets/122565806/9f9884a0-dd01-4cf9-bd46-58e469ff60f2">
+
+
 USER INTERACTION
 
 USERS CAN LOGIN AS ADMIN OR AS A NORMAL USER
